@@ -1,4 +1,4 @@
-# Prcticas-JS-
+# Practicas-JS-
 ## Vamos a realizar este curso para JS con amigos . 
 ### Temas:
 
