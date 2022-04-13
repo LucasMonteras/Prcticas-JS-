@@ -1,5 +1,5 @@
 # Prcticas-JS-
-## Vamos a realizar este curso para JavaScript. 
+## Vamos a realizar este curso para JS con amigos . 
 ### Temas:
 
     - Entienda la importancia de JavaScript en el mundo de programación web
