@@ -106,3 +106,4 @@ imcprimerPaciente.textContent = pesoprimer /(alturaprimer * alturaprimer );
 
 
 
+
